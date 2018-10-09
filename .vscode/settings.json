@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\BK\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "editor.fontSize": 18
+}
